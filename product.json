@@ -1,0 +1,67 @@
+[
+  {
+    "id": 1,
+    "name": "Animi Dolor Pariatur",
+    "category": "decoration",
+    "price": 100,
+    "url": "./assets/images/product-1.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Art Deco Home",
+    "category": "accessory",
+    "price": 100,
+    "url": "./assets/images/product-2.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Helen Chair",
+    "category": "furniture",
+    "price": 100,
+    "url": "./assets/images/product-6.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Animi Dolor Pariatur",
+    "category": "decoration",
+    "price": 100,
+    "url": "./assets/images/product-1.jpg"
+  },
+ 
+  {
+    "id": 5,
+    "name": "Art Deco Home",
+    "category": "accessory",
+    "price": 100,
+    "url": "./assets/images/product-2.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Helen Chair",
+    "category": "furniture",
+    "price": 100,
+    "url": "./assets/images/product-6.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Animi Dolor Pariatur",
+    "category": "decoration",
+    "price": 100,
+    "url": "./assets/images/product-1.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Art Deco Home",
+    "category": "accessory",
+    "price": 100,
+    "url": "./assets/images/product-2.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Helen Chair",
+    "category": "furniture",
+    "price": 100,
+    "url": "./assets/images/product-6.jpg"
+  }
+]
+
